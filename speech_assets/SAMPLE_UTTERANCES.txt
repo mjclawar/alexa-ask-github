@@ -1,0 +1,3 @@
+TopRepositoriesIntent what are the top trending repos for {language} {period}
+TopRepositoriesIntent what are the top repos for {language} {period}
+TopRepositoriesIntent what are the top {language} repos {period}

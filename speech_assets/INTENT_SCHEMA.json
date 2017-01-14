@@ -1,0 +1,17 @@
+{
+    "intents": [
+        {
+            "intent": "TopRepositoriesIntent",
+            "slots": [
+                {
+                    "name": "language",
+                    "type": "GITHUB_LANGUAGE"
+                },
+                {
+                    "name": "period",
+                    "type": "GITHUB_PERIODS"
+                }
+            ]
+        }
+    ]
+}
